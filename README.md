@@ -3,7 +3,7 @@
 
 This bot allows you to create a Question Answering system with a streamlit UI using your company Confluence data.
 
-How to use
+## Installation Steps:
 Create a virtual environnement:
 
 python3.10 -m venv .venv
